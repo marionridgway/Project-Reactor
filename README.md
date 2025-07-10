@@ -37,29 +37,32 @@ reactor-project/
 
 # How to Run
 
-# 1. Upload Arduino Firmware
+----> 1. Upload Arduino Firmware
 - Open `arduino_firmware/` in the Arduino IDE
 - Select board: `Arduino Uno R4 WiFi`
 - Upload the sketch to your board
 
-# 2. Start Node-RED
+----> 2. Start Node-RED
 - Control using dashboard at localhost
 
-# 3. Run Python Logger
+----> 3. Run Python Logger
 - Saves data to SQLite
 
-# 4. Open Database (optional)
+----> 4. Open Database (optional)
 - Observe Data
 
 # Dependencies
+
 pip install XXX
 
 # Status & License
+
 - Currently in private development
 - Repository is private while experimental design is under development
 - License will be added before public release
 
-# Author
+# Authors
+
 Marion Ridgway
 MSc Researcher
 [Private GitHub until project is complete]
