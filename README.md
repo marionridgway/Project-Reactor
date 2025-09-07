@@ -23,8 +23,14 @@ Smart 3D Printed UV Flow Reactor Monitoring and Control System. A digitally-cont
 - Node-RED — Dashboard and serial communication
 - Python 3 — Data logger and tools
 - SQLite — Local file-based database for experimental data
-
-# Folder Structure
+- Temperature Sensor: LM35 
+- UV Sensor: GUVA-S12SD
+- Turbidity: SKU SEN0189 
+- Colour: TCS3200 
+- Phototransistor: SFH 3310 
+- LEDs: Blue: HLMP-AB64-TW0xx 
+- LEDs UV: VAOL-5GUV8T4 
+- Pumps: SKU DFR0523 
 
 reactor-project/
 ├── arduino_firmware/ # Arduino .ino files and libraries
